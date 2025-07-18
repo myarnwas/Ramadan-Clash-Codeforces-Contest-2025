@@ -51,23 +51,7 @@ All problems were solved using **java**.
 
 ---
 
-## 📁 Project Structure
-
-Ramadan-Codeforces-Contest/
-├── A_Zawei_The_Rock.cpp
-├── B_Banis_and_Cards.cpp
-├── C_Gargantua.cpp
-├── D_Anton_Would_Approve.cpp
-├── E_Aws_or_Aws.cpp
-├── F_Adding_Two_Integers.cpp
-├── G_Odd_Even_Strings.cpp
-├── H_Luddy_Rocks.cpp
-├── Mayar_Waleed_Nawas.pdf
-└── README.md
-
----
 ## 📝 Notes:
-
 > 🤝 Let's Connect!
 Feel free to explore, fork, or share feedback on this repo.  
 Follow me on Codeforces: [Mayar_Waleed](https://codeforces.com/profile/Mayar_Waleed)
